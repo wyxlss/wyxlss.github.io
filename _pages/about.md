@@ -1,13 +1,10 @@
 ---
 permalink: /
-title: 
+title: "News" 
 author_profile: true
 redirect_from: 
   - /about/
 ---
-
-News
-======
 
 
 Research Interest
