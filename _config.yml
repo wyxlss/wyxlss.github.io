@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yuxiang Wang"
+#title                    : "Yuxiang Wang"
 title_separator          : "-"
 name                     : &name "Yuxiang Wang"
 description              : &description "personal description"
@@ -87,7 +87,7 @@ author:
   employer         :
  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.sg/citations?hl=zh-CN&user=-InYjOMAAAAJ"
-  email            :
+  email            : "lsswyx@hdu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
