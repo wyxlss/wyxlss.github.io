@@ -11,8 +11,8 @@ redirect_from:
 
 Research Interest
 ======
-**Knowledge Graph.** Querying, Community Search, Subgraph Matching<br/>
-**Big Data.** Approximate Query Processing, Distributed Data Processing, Crowd Sourcing<br/>
+* **Knowledge Graph.** Querying, Community Search, Subgraph Matching<br/>
+* **Big Data.** Approximate Query Processing, Distributed Data Processing, Crowd Sourcing<br/>
 
 Education
 ======
