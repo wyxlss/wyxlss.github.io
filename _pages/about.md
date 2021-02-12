@@ -30,10 +30,18 @@ Work experience
 * 2015-2016: Research Engineer
   * Hangzhou Research Institute of HUAWEI Co., Ltd, China
 
-Publications
+Conference Papers
 ======
-* Mengzhao Wang, Xiaoliang Xu, Qiang Yue, **Yuxiang Wang**. (2021). &quot;A Comprehensive Survey and Experimental Comparison of Graph-Based Approximate Nearest Neighbor Search.&quot; <i>CoRR abs/2101.12631</i>
-  
+* **Yuxiang Wang**, Arijit Khan, Tianxing Wu, Jiahui Jin, Haijiang Yan. Semantic Guided and Response Times Bounded Top-k Similarity Search over Knowledge Graphs. <i>ICDE 2020<i>: 445-456. <font color=red>(CCF A)</font>
+
+Journal Papers
+======
+* Xiaoliang Xu, Chang Li, **Yuxiang Wang**, Yixing Xia. Multiattribute approximate nearest neighbor search based on navigable small world graph. <i>Concurr. Comput. Pract. Exp, 32(24)<i>, 2020. <font color=red>(CCF C)</font>
+
+Others
+======
+* Mengzhao Wang, Xiaoliang Xu, Qiang Yue, **Yuxiang Wang**. A Comprehensive Survey and Experimental Comparison of Graph-Based Approximate Nearest Neighbor Search. <i>CoRR abs/2101.12631</i>, 2021. 
+
 Service
 ======
 * Reviewer of **TKDE**, **KBS**, **Information Science**
