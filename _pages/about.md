@@ -5,9 +5,9 @@ author_profile: true
 redirect_from: 
   - /about/
 ---
-* <font color=red >[2020.12]</font> Invited as a member of **ACM SIGCOMM China**!<br/>
-* <font color=red >[2020.11]</font> One paper is accpeted by **Knowledge-based System**!<br/>
-* <font color=red >[2020.01]</font> One paper is accpeted by **ICDE 2020**!<br/>
+* **[2020.12]** Invited as a member of **ACM SIGCOMM China**!<br/>
+* **[2020.11]** One paper is accpeted by **Knowledge-based System**!<br/>
+* **[2020.01]** One paper is accpeted by **ICDE 2020**!<br/>
 
 Research Interest
 ======
@@ -17,7 +17,7 @@ Research Interest
 Education
 ======
 * B.S. in School of Software Engineering, Tianjin University, 2008
-* M.S. \& Ph.D in School of Computer Science and Engineering, Southeast University, 2015
+* M.S. & Ph.D in School of Computer Science and Engineering, Southeast University, 2015
 
 Work experience
 ======
