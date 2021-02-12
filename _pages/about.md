@@ -32,11 +32,11 @@ Work experience
 
 Conference Papers
 ======
-* **Yuxiang Wang**, Arijit Khan, Tianxing Wu, Jiahui Jin, Haijiang Yan. Semantic Guided and Response Times Bounded Top-k Similarity Search over Knowledge Graphs. <i>ICDE 2020<i>: 445-456. <font color=red>(CCF A)</font>
+* **Yuxiang Wang**, Arijit Khan, Tianxing Wu, Jiahui Jin, Haijiang Yan. Semantic Guided and Response Times Bounded Top-k Similarity Search over Knowledge Graphs. <i>ICDE 2020</i>: 445-456. <font color=red>(CCF A)</font>
 
 Journal Papers
 ======
-* Xiaoliang Xu, Chang Li, **Yuxiang Wang**, Yixing Xia. Multiattribute approximate nearest neighbor search based on navigable small world graph. <i>Concurr. Comput. Pract. Exp, 32(24)<i>, 2020. <font color=red>(CCF C)</font>
+* Xiaoliang Xu, Chang Li, **Yuxiang Wang**, Yixing Xia. Multiattribute approximate nearest neighbor search based on navigable small world graph. <i>Concurr. Comput. Pract. Exp, 32(24)</i>, 2020. <font color=red>(CCF C)</font>
 
 Others
 ======
