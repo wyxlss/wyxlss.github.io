@@ -6,7 +6,7 @@ redirect_from:
   - /about/
 ---
 * **[2020.12]** Invited as a member of **ACM SIGCOMM China**!<br/>
-* **[2020.11]** One paper is accpeted by **Knowledge-based System**!<br/>
+* **[2020.11]** One paper is accpeted by **Knowledge-based Systems**!<br/>
 * **[2020.01]** One paper is accpeted by **ICDE 2020**!<br/>
 
 Research Interest
@@ -41,7 +41,14 @@ Conference Papers
 
 Journal Papers
 ======
-* Xiaoliang Xu, Chang Li, **Yuxiang Wang**, Yixing Xia. Multiattribute approximate nearest neighbor search based on navigable small world graph. <i>Concurr. Comput. Pract. Exp, 32(24)</i>, 2020. <font color=red>(CCF C)</font>
+* **Yuxiang Wang**, Xiaoliang Xu, Qifan Hong, Jiahui Jin, Tianxing Wu. Top-k star queries on knowledge graphs through semantic-aware bounding match scores. <i>Knowledge-Based Systems</i>, 2021. <font color=red>(CCF B, JCR R2)</font>
+* Xiaoliang Xu, Chang Li, **Yuxiang Wang**, Yixing Xia. Multiattribute approximate nearest neighbor search based on navigable small world graph. <i>Concurr. Comput. Pract. Exp</i>, 32(24), 2020. <font color=red>(CCF C)</font>
+* Event Temporal Relation Extraction With Attention Mechanism and Graph Neural Network. Xiaoliang Xu, Tong Gao, **Yuxiang Wang**, Xinle Xuan. <i>Tsinghua Science and Technology</i>, 2020. <font color=red>(JCR R3)</font>
+* Jiahui Jin, Xiaoxuan Zhu, Biwei Wu, Jinghui Zhang, **Yuxiang Wang**. A Dynamic and Deadline-Oriented Road Pricing Mechanism for Urban Traffic Management. <i>Tsinghua Science and Technology</i>, 2020. <font color=red>(JCR R3)</font>
+* **Yuxiang Wang**, Zhangpeng Ge, Haijiang Yan, Xiaoliang Xu, Yixing Xia. Semantic locality-based approximate knowledge graph query. <i>Concurr. Comput. Pract. Exp</i>, 31(24), 2019. <font color=red>(CCF C)</font>
+* **Yuxiang Wang**, Yixing Xia, Qiming Fang, Xiaoliang Xu. AQP++: a hybrid approximate query processing framework for generalized aggregation queries. <i>Journal of Computational Science</i>, 26: 419-431, 2018. <font color=red>(JCR R3)</font>
+* **Yuxiang Wang**, Junzhou Luo, Aibo Song, Fang Dong. OATS: online aggregation with two-level sharing strategy in cloud. <i>Distributed Parallel Databases</i>, 32(4): 467-505, 2014. <font color=red>(CCF C)</font>
+* **Yuxiang Wang**, Junzhou Luo, Aibo Song, Fang Dong. Partition-Based Online Aggregation with Shared Sampling in the Cloud. <i>Journal of Computer Science and Technology</i>, 28(6): 989-1011, 2013. <font color=red>(CCF B, JCR R2)</font>
 
 Others
 ======
