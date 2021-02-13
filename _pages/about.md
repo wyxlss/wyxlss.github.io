@@ -32,10 +32,12 @@ Work experience
 
 Conference Papers
 ======
-* **Yuxiang Wang**, Arijit Khan, Tianxing Wu, Jiahui Jin, Haijiang Yan. Semantic Guided and Response Times Bounded Top-k Similarity Search over Knowledge Graphs. <i>ICDE 2020</i>: 445-456. <font color=red>(CCF A)</font>
+* **Yuxiang Wang**, Arijit Khan, Tianxing Wu, Jiahui Jin, Haijiang Yan. Semantic Guided and Response Times Bounded Top-k Similarity Search over Knowledge Graphs. <i>ICDE 2020</i>: 445-456. <font color=red>(CCF A, acceptance Ratio 19.5%)</font>
 * Haijiang Yan, **Yuxiang Wang**, Xiaoliang Xu. SimG: A Semantic Based Graph Similarity Search Engine. <i>CBD 2019</i>: 114-120.
-* Longbin Zhang, Longbin Zhang, Yuxiang Wang, Xiaoliang Xu. Logic-Partition Based Gaussian Sampling for Online Aggregation. 
-
+* Longbin Zhang, Longbin Zhang, **Yuxiang Wang**, Xiaoliang Xu. Logic-Partition Based Gaussian Sampling for Online Aggregation. <i>CBD 2017</i>: 182-187.
+* **Yuxiang Wang**, Junzhou Luo, Aibo Song, Fang Dong. A Sampling-Based Hybrid Approximate Query Processing System in the Cloud. <i>ICPP 2014</i>: 291-300. <font color=red>(CCF B)</font>
+* Fang Dong, Junzhou Luo, Xia Zhu, **Yuxiang Wang**, Jun Shen. A Personalized Hybrid Recommendation System Oriented to E-Commerce Mass Data in the Cloud. <i>SMC 2013</i>: 1020-1025. <font color=red>(CCF C)</font>
+* **Yuxiang Wang**, Junzhou Luo, Aibo Song, Jiahui Jin, Fang Dong. Improving Online Aggregation Performance for Skewed Data Distribution. <i>DASFAA 2012</i>: 18-32. <font color=red>(CCF B)</font>
 
 Journal Papers
 ======
