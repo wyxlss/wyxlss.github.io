@@ -33,6 +33,9 @@ Work experience
 Conference Papers
 ======
 * **Yuxiang Wang**, Arijit Khan, Tianxing Wu, Jiahui Jin, Haijiang Yan. Semantic Guided and Response Times Bounded Top-k Similarity Search over Knowledge Graphs. <i>ICDE 2020</i>: 445-456. <font color=red>(CCF A)</font>
+* Haijiang Yan, **Yuxiang Wang**, Xiaoliang Xu. SimG: A Semantic Based Graph Similarity Search Engine. <i>CBD 2019</i>: 114-120.
+* Longbin Zhang, Longbin Zhang, Yuxiang Wang, Xiaoliang Xu. Logic-Partition Based Gaussian Sampling for Online Aggregation. 
+
 
 Journal Papers
 ======
