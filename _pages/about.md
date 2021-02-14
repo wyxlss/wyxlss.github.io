@@ -51,7 +51,7 @@ Journal Papers
 * **Yuxiang Wang**, Junzhou Luo, Aibo Song, Fang Dong. OATS: online aggregation with two-level sharing strategy in cloud. <i><font color=blue>Distributed Parallel Databases</font></i>, 32(4): 467-505, 2014. <font color=red>(CCF C)</font>
 * **Yuxiang Wang**, Junzhou Luo, Aibo Song, Fang Dong. Partition-Based Online Aggregation with Shared Sampling in the Cloud. <i><font color=blue>Journal of Computer Science and Technology</font></i>, 28(6): 989-1011, 2013. <font color=red>(CCF B, JCR R2)</font>
 
-Others
+Other Papers
 ======
 * Mengzhao Wang, Xiaoliang Xu, Qiang Yue, **Yuxiang Wang**. A Comprehensive Survey and Experimental Comparison of Graph-Based Approximate Nearest Neighbor Search. <i>CoRR abs/2101.12631</i>, 2021. 
 
