@@ -53,7 +53,7 @@ Journal Papers
 
 Other Papers
 ======
-* Mengzhao Wang, Xiaoliang Xu, Qiang Yue, **Yuxiang Wang**. A Comprehensive Survey and Experimental Comparison of Graph-Based Approximate Nearest Neighbor Search. <i>CoRR abs/2101.12631</i>, 2021. 
+* Mengzhao Wang, Xiaoliang Xu, Qiang Yue, **Yuxiang Wang**. A Comprehensive Survey and Experimental Comparison of Graph-Based Approximate Nearest Neighbor Search. <i><font color=blue>CoRR abs/2101.12631</font></i>, 2021. 
 
 Service
 ======
