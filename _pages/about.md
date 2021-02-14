@@ -43,7 +43,7 @@ Journal Papers
 ======
 * **Yuxiang Wang**, Xiaoliang Xu, Qifan Hong, Jiahui Jin, Tianxing Wu. Top-k star queries on knowledge graphs through semantic-aware bounding match scores. <i>Knowledge-Based Systems</i>, 2021. <font color=red>(CCF B, JCR R2)</font>
 * Xiaoliang Xu, Chang Li, **Yuxiang Wang**, Yixing Xia. Multiattribute approximate nearest neighbor search based on navigable small world graph. <i>Concurr. Comput. Pract. Exp</i>, 32(24), 2020. <font color=red>(CCF C)</font>
-* Event Temporal Relation Extraction With Attention Mechanism and Graph Neural Network. Xiaoliang Xu, Tong Gao, **Yuxiang Wang**, Xinle Xuan. <i>Tsinghua Science and Technology</i>, 2020. <font color=red>(JCR R3)</font>
+* Xiaoliang Xu, Tong Gao, **Yuxiang Wang**, Xinle Xuan. Event Temporal Relation Extraction With Attention Mechanism and Graph Neural Network. <i>Tsinghua Science and Technology</i>, 2020. <font color=red>(JCR R3)</font>
 * Jiahui Jin, Xiaoxuan Zhu, Biwei Wu, Jinghui Zhang, **Yuxiang Wang**. A Dynamic and Deadline-Oriented Road Pricing Mechanism for Urban Traffic Management. <i>Tsinghua Science and Technology</i>, 2020. <font color=red>(JCR R3)</font>
 * **Yuxiang Wang**, Zhangpeng Ge, Haijiang Yan, Xiaoliang Xu, Yixing Xia. Semantic locality-based approximate knowledge graph query. <i>Concurr. Comput. Pract. Exp</i>, 31(24), 2019. <font color=red>(CCF C)</font>
 * **Yuxiang Wang**, Jiahui Jin, Xiaoliang Xu, Longbin Zhang. Skew-aware online aggregation over joins through guided sampling. Concurr. <i>Comput. Pract. Exp</i>, 30(20), 2018. <font color=red>(CCF C)</font>
