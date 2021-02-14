@@ -28,7 +28,7 @@ Work experience
 * 2016-2020: Assistant Professor
   * School of Computer Science, Hangzhou Dianzi University, China
 * 2015-2016: Research Engineer
-  * Hangzhou Research Institute of HUAWEI Co., Ltd, China
+  * Hangzhou Research Institute of HUAWEI Co., Ltd, China 
 
 Conference Papers
 ======
