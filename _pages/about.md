@@ -28,7 +28,16 @@ Work experience
 * 2016-2020: Assistant Professor
   * School of Computer Science, Hangzhou Dianzi University, China
 * 2015-2016: Research Engineer
-  * Hangzhou Research Institute of HUAWEI Co., Ltd, China 
+  * Hangzhou Research Institute of HUAWEI Co., Ltd, China
+
+Projects
+======
+* Host 2 National Natural Science Foundation of China
+  * 国家自然科学基金面上项目（No. 62072149），<font color=blue>语义驱动的知识图谱近似图查询关键技术研究，项目负责人</font>，2021.1-2024.12，在研
+  * 国家自然科学基金青年项目（No. 61602410），<font color=blue>面向大数据近似查询应用的在线聚集融合机制与优化研究，项目负责人</font>，2017.1-2019.12，结题
+* Host 1 National Natural Science Foundation of Zhejiang Province
+* Participated in 6 National Natural Science Foundation of China
+* Participated in 3 Zhejiang Province Key R&D Program
 
 Conference Papers
 ======
