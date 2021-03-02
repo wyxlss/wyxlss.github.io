@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-#title                    : "Yuxiang Wang"
+title                    : "Yuxiang Wang's Homepage"
 title_separator          : "-"
 name                     : &name "Yuxiang Wang"
 description              : &description "personal description"
