@@ -5,6 +5,7 @@ author_profile: true
 redirect_from: 
   - /about/
 ---
+* **[2021.06]** One paper is accepted by **VLDB 2021**!<br/>
 * **[2020.12]** Invited as a member of **ACM SIGCOMM China**!<br/>
 * **[2020.11]** One paper is accpeted by **Knowledge-based Systems**!<br/>
 * **[2020.01]** One paper is accpeted by **ICDE 2020**!<br/>
@@ -41,6 +42,7 @@ Projects
 
 Conference Papers
 ======
+* Mengzhao Wang, Xiaoliang Xu, Qiang Yue, **Yuxiang Wang^***. A Comprehensive Survey and Experimental Comparison of Graph-Based Approximate Nearest Neighbor Search. <i><font color=blue>PVLDB 2021</font></i>, https://arxiv.org/abs/2101.12631. <font color=red>(CCF A)</font>
 * **Yuxiang Wang**, Arijit Khan, Tianxing Wu, Jiahui Jin, Haijiang Yan. Semantic Guided and Response Times Bounded Top-k Similarity Search over Knowledge Graphs. <i><font color=blue>ICDE 2020</font></i>: 445-456. <font color=red>(CCF A, acceptance ratio 19.5%)</font>
 * Haijiang Yan, **Yuxiang Wang**, Xiaoliang Xu. SimG: A Semantic Based Graph Similarity Search Engine. <i><font color=blue>CBD 2019</font></i>: 114-120.
 * Longbin Zhang, **Yuxiang Wang**, Xiaoliang Xu. Logic-Partition Based Gaussian Sampling for Online Aggregation. <i><font color=blue>CBD 2017</font></i>: 182-187.
