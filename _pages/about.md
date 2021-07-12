@@ -9,7 +9,7 @@ redirect_from:
 * **[2021.06]** One paper is accepted by <font color=red>VLDB 2021</font>!<br/>
 * **[2020.12]** Invited as a member of **ACM SIGCOMM China**!<br/>
 * **[2020.11]** One paper is accpeted by **Knowledge-based Systems**!<br/>
-* **[2020.01]** One paper is accpeted by **ICDE 2020**!<br/>
+* **[2020.01]** One paper is accpeted by <font color=red>ICDE 2020</font>!<br/>
 
 Research Interest
 ======
@@ -53,6 +53,7 @@ Conference Papers
 
 Journal Papers
 ======
+* Xiaoliang Xu, Mengzhao Wang, **Yuxiang Wang**, Dingcheng Ma. Two-Stage Routing with Optimized Guided Search and Greedy Algorithm on Proximity Graph. <i><font color=blue>Knowledge-based Systems</font><i>, 2021. <font color=red>(CCF B, JCR R1)</font>
 * **Yuxiang Wang**, Xiaoliang Xu, Qifan Hong, Jiahui Jin, Tianxing Wu. Top-k star queries on knowledge graphs through semantic-aware bounding match scores. <i><font color=blue>Knowledge-Based Systems</font></i>, 2021. <font color=red>(CCF B, JCR R1)</font>
 * Xiaoliang Xu, Chang Li, **Yuxiang Wang**, Yixing Xia. Multiattribute approximate nearest neighbor search based on navigable small world graph. <i><font color=blue>Concurr. Comput. Pract. Exp</font></i>, 32(24), 2020. <font color=red>(CCF C)</font>
 * Xiaoliang Xu, Tong Gao, **Yuxiang Wang**, Xinle Xuan. Event Temporal Relation Extraction With Attention Mechanism and Graph Neural Network. <i><font color=blue>Tsinghua Science and Technology</font></i>, 2020. <font color=red>(JCR R3)</font>
