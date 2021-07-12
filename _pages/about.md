@@ -5,7 +5,8 @@ author_profile: true
 redirect_from: 
   - /about/
 ---
-* **[2021.06]** One paper is accepted by **VLDB 2021**!<br/>
+* **[2021.07]** One paper is accepted by **Knowledge-based Systems**!<br/>
+* **[2021.06]** One paper is accepted by **<font color=red>VLDB 2021</font>**!<br/>
 * **[2020.12]** Invited as a member of **ACM SIGCOMM China**!<br/>
 * **[2020.11]** One paper is accpeted by **Knowledge-based Systems**!<br/>
 * **[2020.01]** One paper is accpeted by **ICDE 2020**!<br/>
