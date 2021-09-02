@@ -5,6 +5,7 @@ author_profile: true
 redirect_from: 
   - /about/
 ---
+* **[2021.09]** One paper is accpeted by <font color=red>ICDE 2022</font> (Early Notification)!<br/>
 * **[2021.07]** One paper is accepted by **Knowledge-based Systems**!<br/>
 * **[2021.06]** One paper is accepted by <font color=red>VLDB 2021</font>!<br/>
 * **[2020.12]** Invited as a member of **ACM SIGCOMM China**!<br/>
@@ -43,6 +44,7 @@ Projects
 
 Conference Papers
 ======
+* Xiaoliang Xu, Jun Liu, **Yuxiang Wang***, Xiangyu Ke. Academic Expert Finding via (K,P)-Core based Embedding over Heterogeneous Graphs. <i><font color=blue>ICDE 2022</font></i>. <font color=red>(CCF A)</font>
 * Mengzhao Wang, Xiaoliang Xu, Qiang Yue, **Yuxiang Wang***. A Comprehensive Survey and Experimental Comparison of Graph-Based Approximate Nearest Neighbor Search. <i><font color=blue>PVLDB 2021</font></i>, https://arxiv.org/abs/2101.12631. <font color=red>(CCF A)</font>
 * **Yuxiang Wang**, Arijit Khan, Tianxing Wu, Jiahui Jin, Haijiang Yan. Semantic Guided and Response Times Bounded Top-k Similarity Search over Knowledge Graphs. <i><font color=blue>ICDE 2020</font></i>: 445-456. <font color=red>(CCF A, acceptance ratio 19.5%)</font>
 * Haijiang Yan, **Yuxiang Wang**, Xiaoliang Xu. SimG: A Semantic Based Graph Similarity Search Engine. <i><font color=blue>CBD 2019</font></i>: 114-120.
