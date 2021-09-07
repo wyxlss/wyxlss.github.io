@@ -8,7 +8,8 @@ redirect_from:
 * **[2021.09]** One paper is accpeted by <font color=red>ICDE 2022</font> (Early Notification)!<br/>
 * **[2021.07]** One paper is accepted by **Knowledge-based Systems**!<br/>
 * **[2021.06]** One paper is accepted by <font color=red>VLDB 2021</font>!<br/>
-* **[2020.12]** Invited as a member of **ACM SIGCOMM China**!<br/>
+* **[2021.06]** Join **Chinese Information Processing Society of China** as a member!<br/>
+* **[2020.12]** Join **ACM SIGCOMM China** as a member!<br/>
 * **[2020.11]** One paper is accpeted by **Knowledge-based Systems**!<br/>
 * **[2020.01]** One paper is accpeted by <font color=red>ICDE 2020</font>!<br/>
 
@@ -35,12 +36,12 @@ Work experience
 
 Projects
 ======
-* Host 2 National Natural Science Foundation of China
+* Host <font color=red>2</font> National Natural Science Foundation of China
   * 国家自然科学基金面上项目（No. 62072149），<font color=blue>语义驱动的知识图谱近似图查询关键技术研究，项目负责人</font>，2021.1-2024.12，在研
   * 国家自然科学基金青年项目（No. 61602410），<font color=blue>面向大数据近似查询应用的在线聚集融合机制与优化研究，项目负责人</font>，2017.1-2019.12，结题
-* Host 1 National Natural Science Foundation of Zhejiang Province
-* Participated in 6 National Natural Science Foundation of China
-* Participated in 3 Zhejiang Province Key R&D Program
+* Host <font color=red>1</font> National Natural Science Foundation of Zhejiang Province
+* Participated in <font color=red>6</font> National Natural Science Foundation of China
+* Participated in <font color=red>3</font> Zhejiang Province Key R&D Program
 
 Conference Papers
 ======
