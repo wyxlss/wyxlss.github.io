@@ -7,10 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yuxiang Wang's Homepage"
+title                    : "Yuxiang Wang"
+tagline                  : "Knowledge Graph Querying, Community Search, Approximate Query Processing, ICDE, VLDB"
 title_separator          : "-"
 name                     : &name "Yuxiang Wang"
-description              : &description "personal description"
+description              : &description "[2021.09] One paper is accpeted by ICDE 2022 (Early Notification)!\n[2021.07] One paper is accepted by Knowledge-based Systems!\n[2021.06] One paper is accepted by VLDB 2021!\n[2021.06] Join Chinese Information Processing Society of China as a member!\n[2020.12] Join ACM SIGCOMM China as a member!\n[2020.11] One paper is accpeted by Knowledge-based Systems!\n[2020.01] One paper is accpeted by ICDE 2020!"
 url                      : https://wyxlss.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wyxlss/wyxlss.github.io"
@@ -257,7 +258,6 @@ permalink: /:categories/:title/
 # paginate_path: /page:num/
 timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
-
 # Plugins
 plugins:
   - jekyll-paginate
@@ -265,6 +265,8 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-seo-tag
+
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
