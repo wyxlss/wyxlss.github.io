@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yuxiang Wang"
+title                    : "Welcome to Yuxiang Wang's Academic Homepage"
 tagline                  : "Knowledge Graph Querying, Community Search, Approximate Query Processing, ICDE, VLDB"
 title_separator          : "-"
 name                     : &name "Yuxiang Wang"
@@ -83,8 +83,8 @@ analytics:
 author:
   name             : "Yuxiang Wang"
   avatar           : "profile.png"
-  bio              : "Ph.D"
-  location         : "Hangzhou"
+  bio              : "Associate Professor"
+  location         : "Hangzhou, China"
   employer         :
  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.sg/citations?hl=zh-CN&user=-InYjOMAAAAJ"
