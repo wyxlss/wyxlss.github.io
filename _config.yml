@@ -11,7 +11,7 @@ title                    : "Welcome to Yuxiang Wang's Academic Homepage, Hangzho
 tagline                  : "ICDE, VLDB, Knowledge Graph Querying, Community Search, Approximate Query Processing"
 title_separator          : "-"
 name                     : &name "Yuxiang Wang"
-description              : &description "[2021.09] One paper is accpeted by ICDE 2022 (Early Notification)!\n[2021.07] One paper is accepted by Knowledge-based Systems!\n[2021.06] One paper is accepted by VLDB 2021!\n[2021.06] Join Chinese Information Processing Society of China as a member!\n[2020.12] Join ACM SIGCOMM China as a member!\n[2020.11] One paper is accpeted by Knowledge-based Systems!\n[2020.01] One paper is accpeted by ICDE 2020!"
+description              : &description "Associate Professor of Hangzhou Dianzi University. One paper is accpeted by ICDE 2022 (Early Notification)!\n One paper is accepted by Knowledge-based Systems!\n One paper is accepted by VLDB 2021!\n Join Chinese Information Processing Society of China as a member!\n Join ACM SIGCOMM China as a member!\n One paper is accpeted by ICDE 2020!"
 url                      : https://wyxlss.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wyxlss/wyxlss.github.io"
