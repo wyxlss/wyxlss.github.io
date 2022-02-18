@@ -7,8 +7,8 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Welcome to Yuxiang Wang's Academic Homepage"
-tagline                  : "Knowledge Graph Querying, Community Search, Approximate Query Processing, ICDE, VLDB"
+title                    : "Welcome to Yuxiang Wang's Academic Homepage, Hangzhou Dianzi University"
+tagline                  : "ICDE, VLDB, Knowledge Graph Querying, Community Search, Approximate Query Processing"
 title_separator          : "-"
 name                     : &name "Yuxiang Wang"
 description              : &description "[2021.09] One paper is accpeted by ICDE 2022 (Early Notification)!\n[2021.07] One paper is accepted by Knowledge-based Systems!\n[2021.06] One paper is accepted by VLDB 2021!\n[2021.06] Join Chinese Information Processing Society of China as a member!\n[2020.12] Join ACM SIGCOMM China as a member!\n[2020.11] One paper is accpeted by Knowledge-based Systems!\n[2020.01] One paper is accpeted by ICDE 2020!"
