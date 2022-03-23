@@ -5,6 +5,7 @@ author_profile: true
 redirect_from: 
   - /about/
 ---
+* **[2022.03]** One paper is accpeted by <font color=red>ICDE 2022</font>!<br/>
 * **[2021.09]** One paper is accpeted by <font color=red>ICDE 2022</font> (Early Notification)!<br/>
 * **[2021.07]** One paper is accepted by **Knowledge-based Systems**!<br/>
 * **[2021.06]** One paper is accepted by <font color=red>VLDB 2021</font>!<br/>
@@ -45,6 +46,7 @@ Projects
 
 Conference Papers
 ======
+* **Yuxiang Wang**, Arijit Khan, Xiaoliang Xu, Jiahui Jin, Qifan Hong, Tao Fu. Aggregate Queries on Knowledge Graphs: Fast Approximation with Semantic-aware Sampling. <i><font color=blue>ICDE 2022</font></i>, [[Paper]](https://arxiv.org/abs/2203.03792), [[Code]](https://github.com/KGLab-HDU/Approximate-Aggregation-Queries). <font color=red>(CCF A)</font>
 * Xiaoliang Xu, Jun Liu, **Yuxiang Wang***, Xiangyu Ke. Academic Expert Finding via (K,P)-Core based Embedding over Heterogeneous Graphs. <i><font color=blue>ICDE 2022</font></i>, [[Code]](https://github.com/KGLab-HDU/Expert-Finding-on-Heterogeneous-Graph). <font color=red>(CCF A)</font>
 * Mengzhao Wang, Xiaoliang Xu, Qiang Yue, **Yuxiang Wang***. A Comprehensive Survey and Experimental Comparison of Graph-Based Approximate Nearest Neighbor Search. <i><font color=blue>PVLDB 2021</font></i>, [[Paper]](https://arxiv.org/abs/2101.12631), [[Code]](https://github.com/KGLab-HDU/WEAVESS). <font color=red>(CCF A)</font>
 * **Yuxiang Wang**, Arijit Khan, Tianxing Wu, Jiahui Jin, Haijiang Yan. Semantic Guided and Response Times Bounded Top-k Similarity Search over Knowledge Graphs. <i><font color=blue>ICDE 2020</font></i>: 445-456, [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9101747), [[Code]](https://github.com/KGLab-HDU/Semantic-guided-search-master) <font color=red>(CCF A, acceptance ratio 19.5%)</font>
