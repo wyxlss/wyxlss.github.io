@@ -60,11 +60,11 @@ Conference Papers
 
 Journal Papers
 ======
-* Xiaoliang Xu, Qifan Hong, **Yuxiang Wang**, Jiahui Jin, Xinle Xuan, Tao Fu. A Random Walk Sampling on Knowledge Graphs for Semantic-oriented Statistical Tasks. <i><font color=blue>Data \& Knowledge Engineering</font><i>, 2022. <font color=red>(CCF B)</font>
+* Xiaoliang Xu, Qifan Hong, **Yuxiang Wang***, Jiahui Jin, Xinle Xuan, Tao Fu. A Random Walk Sampling on Knowledge Graphs for Semantic-oriented Statistical Tasks. <i><font color=blue>Data & Knowledge Engineering</font><i>, 2022. <font color=red>(CCF B)</font>
 * Xiaoliang Xu, Mengzhao Wang, **Yuxiang Wang**, Dingcheng Ma. Two-Stage Routing with Optimized Guided Search and Greedy Algorithm on Proximity Graph. <i><font color=blue>Knowledge-based Systems</font><i>, 2021. <font color=red>(CCF B, JCR R1)</font>
 * **Yuxiang Wang**, Xiaoliang Xu, Qifan Hong, Jiahui Jin, Tianxing Wu. Top-k star queries on knowledge graphs through semantic-aware bounding match scores. <i><font color=blue>Knowledge-Based Systems</font></i>, 2021. <font color=red>(CCF B, JCR R1)</font>
-* Xiaoliang Xu, Chang Li, **Yuxiang Wang**, Yixing Xia. Multiattribute approximate nearest neighbor search based on navigable small world graph. <i><font color=blue>Concurr. Comput. Pract. Exp</font></i>, 32(24), 2020. <font color=red>(CCF C)</font>
-* Xiaoliang Xu, Tong Gao, **Yuxiang Wang**, Xinle Xuan. Event Temporal Relation Extraction With Attention Mechanism and Graph Neural Network. <i><font color=blue>Tsinghua Science and Technology</font></i>, 2020. <font color=red>(JCR R3)</font>
+* Xiaoliang Xu, Chang Li, **Yuxiang Wang***, Yixing Xia. Multiattribute approximate nearest neighbor search based on navigable small world graph. <i><font color=blue>Concurr. Comput. Pract. Exp</font></i>, 32(24), 2020. <font color=red>(CCF C)</font>
+* Xiaoliang Xu, Tong Gao, **Yuxiang Wang***, Xinle Xuan. Event Temporal Relation Extraction With Attention Mechanism and Graph Neural Network. <i><font color=blue>Tsinghua Science and Technology</font></i>, 2020. <font color=red>(JCR R3)</font>
 * Jiahui Jin, Xiaoxuan Zhu, Biwei Wu, Jinghui Zhang, **Yuxiang Wang**. A Dynamic and Deadline-Oriented Road Pricing Mechanism for Urban Traffic Management. <i><font color=blue>Tsinghua Science and Technology</font></i>, 2020. <font color=red>(JCR R3)</font>
 * **Yuxiang Wang**, Zhangpeng Ge, Haijiang Yan, Xiaoliang Xu, Yixing Xia. Semantic locality-based approximate knowledge graph query. <i><font color=blue>Concurr. Comput. Pract. Exp</font></i>, 31(24), 2019. <font color=red>(CCF C)</font>
 * **Yuxiang Wang**, Jiahui Jin, Xiaoliang Xu, Longbin Zhang. Skew-aware online aggregation over joins through guided sampling. Concurr. <i><font color=blue>Comput. Pract. Exp</font></i>, 30(20), 2018. <font color=red>(CCF C)</font>
