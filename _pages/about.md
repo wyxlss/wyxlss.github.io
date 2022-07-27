@@ -5,7 +5,8 @@ author_profile: true
 redirect_from: 
   - /about/
 ---
-* **<font size=3>[2022.08]</font>** <font size=3>One paper is accepted by <font color=red>CIKM 2022</font>!</font><br/>
+<font size=3>
+* **[2022.08]** One paper is accepted by <font color=red>CIKM 2022</font>!<br/>
 * **[2022.03]** One paper won the <font color=red>best paper award of CBD 2021</font>!<br/>
 * **[2022.03]** One paper is accepted by <font color=red>ICDE 2022</font>!<br/>
 * **[2021.09]** One paper is accepted by <font color=red>ICDE 2022</font> (Early Notification)!<br/>
@@ -15,6 +16,7 @@ redirect_from:
 * **[2020.12]** Join **ACM SIGCOMM China** as a member!<br/>
 * **[2020.11]** One paper is accpeted by **Knowledge-based Systems**!<br/>
 * **[2020.01]** One paper is accpeted by <font color=red>ICDE 2020</font>!<br/>
+</font>
 
 Research Interest
 ======
