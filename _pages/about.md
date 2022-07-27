@@ -5,7 +5,6 @@ author_profile: true
 redirect_from: 
   - /about/
 ---
-<font size=3>
 * **[2022.08]** One paper is accepted by <font color=red>CIKM 2022</font>!<br/>
 * **[2022.03]** One paper won the <font color=red>best paper award of CBD 2021</font>!<br/>
 * **[2022.03]** One paper is accepted by <font color=red>ICDE 2022</font>!<br/>
@@ -16,7 +15,6 @@ redirect_from:
 * **[2020.12]** Join **ACM SIGCOMM China** as a member!<br/>
 * **[2020.11]** One paper is accpeted by **Knowledge-based Systems**!<br/>
 * **[2020.01]** One paper is accpeted by <font color=red>ICDE 2020</font>!<br/>
-</font>
 
 Research Interest
 ======
@@ -52,8 +50,10 @@ Conference Papers
 ======
 * **Yuxiang Wang**, Arijit Khan, Xiaoliang Xu, Jiahui Jin, Qifan Hong, Tao Fu. Aggregate Queries on Knowledge Graphs: Fast Approximation with Semantic-aware Sampling. <i><font color=blue>ICDE 2022</font></i>, [[Paper]](https://arxiv.org/abs/2203.03792), [[Code]](https://github.com/KGLab-HDU/Approximate-Aggregation-Queries). <font color=red>(CCF A)</font>
 * Xiaoliang Xu, Jun Liu, **Yuxiang Wang***, Xiangyu Ke. Academic Expert Finding via (K,P)-Core based Embedding over Heterogeneous Graphs. <i><font color=blue>ICDE 2022</font></i>, [[Code]](https://github.com/KGLab-HDU/Expert-Finding-on-Heterogeneous-Graph). <font color=red>(CCF A)</font>
+* **Yuxiang Wang**, Arijit Khan, Xiaoliang Xu, Shuzhan Ye, Shihuang Pan and Yuhan Zhou. Approximate and Interactive Processing of Aggregate Queries on Knowledge Graphs: A Demonstration. <i><font color=blue>CIKM 2022</font></i>. <font color=red>(CCF B)</font>
 * Mengzhao Wang, Xiaoliang Xu, Qiang Yue, **Yuxiang Wang***. A Comprehensive Survey and Experimental Comparison of Graph-Based Approximate Nearest Neighbor Search. <i><font color=blue>PVLDB 2021</font></i>, [[Paper]](https://arxiv.org/abs/2101.12631), [[Code]](https://github.com/KGLab-HDU/WEAVESS). <font color=red>(CCF A)</font>
 * **Yuxiang Wang**, Arijit Khan, Tianxing Wu, Jiahui Jin, Haijiang Yan. Semantic Guided and Response Times Bounded Top-k Similarity Search over Knowledge Graphs. <i><font color=blue>ICDE 2020</font></i>: 445-456, [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9101747), [[Code]](https://github.com/KGLab-HDU/Semantic-guided-search-master) <font color=red>(CCF A, acceptance ratio 19.5%)</font>
+* Chaoyu Gao, Tianxing Wu*, Shengqi Jing, **Yuxiang Wang**. Medical Schema Matching using Knowledge Graph Embedding. <i><font color=blue>EEKE 2022</font></i>.
 * Tao Fu, Xiaoliang Xu, **Yuxiang Wang**. An Execution Cost Model for Aggregate Queries over Knowledge Graphs. <i><font color=blue>CBD 2021</font></i>, <i><font color=red>Best Paper Award</font></i>.
 * Haijiang Yan, **Yuxiang Wang**, Xiaoliang Xu. SimG: A Semantic Based Graph Similarity Search Engine. <i><font color=blue>CBD 2019</font></i>: 114-120.
 * Longbin Zhang, **Yuxiang Wang**, Xiaoliang Xu. Logic-Partition Based Gaussian Sampling for Online Aggregation. <i><font color=blue>CBD 2017</font></i>: 182-187.
