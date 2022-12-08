@@ -40,7 +40,7 @@ Work experience
 
 Projects
 ======
-* Host <font color=red>2</font> Primay R\&D Plan of Zhejiang
+* Host <font color=red>1</font> Primay R&D Plan of Zhejiang
   * 浙江省”尖兵“”领雁“研发攻关计划项目，<font color=blue>未来实验室数字化建设关键技术研究与应用示范，项目负责人</font>，2023.1-2025.12，在研
 * Host <font color=red>2</font> National Natural Science Foundation of China
   * 国家自然科学基金面上项目（No. 62072149），<font color=blue>语义驱动的知识图谱近似图查询关键技术研究，项目负责人</font>，2021.1-2024.12，在研
