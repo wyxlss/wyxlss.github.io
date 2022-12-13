@@ -85,5 +85,6 @@ Other Papers
 Service
 ======
 * Reviewer of **TKDE**, **KBS**, **Information Science**, **Data Mining and Knowledge Discovery**
+* PC member of **IJCAI'23**
 * PC member of **PAKDD'20,21,22,23**
 * PC member of **CBD'16,17,18,19,20,21,22,23**
