@@ -8,16 +8,18 @@ redirect_from:
 
 News
 ======
-* **[2022.12]** One paper is accepted by <font color=red>TKDD</font>!<br/>
+* **[2022.12]** One paper is accepted by <font color=red>TKDD (CCF B, IF=4.157)</font>!<br/>
+* **[2022.12]** I was invited as a <font color=blue>PC member of IJCAI 2023</font>!<br/>
+* **[2022.11]** I was invited as a <font color=blue>Guest Editor of Mathematics</font>!<br/>
 * **[2022.08]** One paper is accepted by <font color=red>CIKM 2022</font>!<br/>
 * **[2022.03]** One paper won the <font color=red>best paper award of CBD 2021</font>!<br/>
 * **[2022.03]** One paper is accepted by <font color=red>ICDE 2022</font>!<br/>
 * **[2021.09]** One paper is accepted by <font color=red>ICDE 2022</font> (Early Notification)!<br/>
-* **[2021.07]** One paper is accepted by **Knowledge-based Systems**!<br/>
+* **[2021.07]** One paper is accepted by <font color=blue>Knowledge-based Systems</font>!<br/>
 * **[2021.06]** One paper is accepted by <font color=red>VLDB 2021</font>!<br/>
-* **[2021.06]** Join **Chinese Information Processing Society of China** as a member!<br/>
-* **[2020.12]** Join **ACM SIGCOMM China** as a member!<br/>
-* **[2020.11]** One paper is accpeted by **Knowledge-based Systems**!<br/>
+* **[2021.06]** Join <font color=blue>Chinese Information Processing Society of China</font> as a member!<br/>
+* **[2020.12]** Join <font color=blue>Chinese Information Processing Society of China</font>ACM SIGCOMM China</font> as a member!<br/>
+* **[2020.11]** One paper is accpeted by <font color=blue>Chinese Information Processing Society of China</font>Knowledge-based Systems</font>!<br/>
 * **[2020.01]** One paper is accpeted by <font color=red>ICDE 2020</font>!<br/>
 
 Research Interest
