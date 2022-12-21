@@ -19,7 +19,7 @@ News
 * **[2021.06]** One paper is accepted by <font color=red>VLDB 2021</font>!<br/>
 * **[2021.06]** Join <font color=blue>Chinese Information Processing Society of China</font> as a member!<br/>
 * **[2020.12]** Join <font color=blue>Chinese Information Processing Society of China</font>ACM SIGCOMM China</font> as a member!<br/>
-* **[2020.11]** One paper is accpeted by <font color=blue>Chinese Information Processing Society of China</font>Knowledge-based Systems</font>!<br/>
+* **[2020.11]** One paper is accpeted by <font color=blue>Knowledge-based Systems</font>!<br/>
 * **[2020.01]** One paper is accpeted by <font color=red>ICDE 2020</font>!<br/>
 
 Research Interest
