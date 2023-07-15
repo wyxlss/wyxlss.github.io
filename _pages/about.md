@@ -8,8 +8,8 @@ redirect_from:
 
 News
 ======
-* **[2023.7]** One paper is accpeted by <font color=blue>ECAI 2023</font>!<br/>
-* **[2023.7]** One paper is accpeted by <font color=blue>ISWC 2023</font>!<br/>
+* **[2023.7]** One paper is accpeted by <font color=red>ECAI 2023</font>!<br/>
+* **[2023.7]** One paper is accpeted by <font color=red>ISWC 2023</font>!<br/>
 * **[2023.2]** I was invited as a <font color=blue>PC member of KDD 2023</font>!<br/>
 * **[2022.12]** One paper is accepted by <font color=red>TKDD (CCF B, IF=4.157)</font>!<br/>
 * **[2022.12]** I was invited as a <font color=blue>PC member of IJCAI 2023</font>!<br/>
