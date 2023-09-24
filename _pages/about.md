@@ -8,6 +8,7 @@ redirect_from:
 
 News
 ======
+* **[2023.9]** One paper is accpeted by <font color=red>NeurIPS 2023</font>!<br/>
 * **[2023.7]** One paper is accpeted by <font color=red>ECAI 2023</font>!<br/>
 * **[2023.7]** One paper is accpeted by <font color=red>ISWC 2023</font>!<br/>
 * **[2023.2]** I was invited as a <font color=blue>PC member of KDD 2023</font>!<br/>
@@ -25,8 +26,9 @@ News
 
 Research Interest
 ======
-* **Knowledge Graph.** Querying, Community Search, Subgraph Matching<br/>
+* **Graph Query.** Knowledge Graph Query, Community Search, Subgraph Matching<br/>
 * **Graph Learning.** Heterogeneous Information Network Embedding, Graph Neural Network<br/>
+* **Approximate Nearest Neighbors Search** Proximity Graph-based ANNS, PQ-based ANNS<br/>
 * **Big Data.** Approximate Query Processing, Distributed Data Processing, Crowd Sourcing<br/>
 
 Education
@@ -58,6 +60,7 @@ Projects
 
 Conference Papers
 ======
+* Mengzhao Wang, Lingwei Lv, Xiaoliang Xu, **Yuxiang Wang**, Qiangyue, Jiongkang Ni. An Efficient and Robust Framework for Approximate Nearest Neighbor Search with Attribute Constraint. <i><font color=blue>NeurIPS 2023</font></i>, [[Paper]](https://openreview.net/pdf?id=wLFXTAWa5V). <font color=red>(CCF A)</font>
 * **Yuxiang Wang**, Arijit Khan, Xiaoliang Xu, Jiahui Jin, Qifan Hong, Tao Fu. Aggregate Queries on Knowledge Graphs: Fast Approximation with Semantic-aware Sampling. <i><font color=blue>ICDE 2022</font></i>, [[Paper]](https://arxiv.org/abs/2203.03792), [[Code]](https://github.com/KGLab-HDU/Approximate-Aggregation-Queries). <font color=red>(CCF A)</font>
 * Xiaoliang Xu, Jun Liu, **Yuxiang Wang***, Xiangyu Ke. Academic Expert Finding via (K,P)-Core based Embedding over Heterogeneous Graphs. <i><font color=blue>ICDE 2022</font></i>, [[Code]](https://github.com/KGLab-HDU/Expert-Finding-on-Heterogeneous-Graph). <font color=red>(CCF A)</font>
 * Xiaoxuan Gou, Xiaoliang Xu, Xiangying Wu, Runhuai Chen, **Yuxiang Wang**, Tianxing Wu and Xiangyu Ke. Effective and Efficient Community Search with Graph Embeddings. <i><font color=blue>ECAI 2023</font></i>. <font color=red>(CCF B)</font>
