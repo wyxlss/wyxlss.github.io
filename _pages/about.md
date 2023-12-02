@@ -8,6 +8,7 @@ redirect_from:
 
 News
 ======
+* **[2023.12]** One paper is accpeted by <font color=red>ICDE 2024</font>!<br/>
 * **[2023.9]** One paper is accpeted by <font color=red>NeurIPS 2023</font>!<br/>
 * **[2023.7]** One paper is accpeted by <font color=red>ECAI 2023</font>!<br/>
 * **[2023.7]** One paper is accpeted by <font color=red>ISWC 2023</font>!<br/>
@@ -60,6 +61,7 @@ Projects
 
 Conference Papers
 ======
+* Qiang Yue, Xiaoliang Xu, **Yuxiang Wang**, Yikun Tao, Xuliyuan Luo. Routing-Guided Learned Product Quantization for Graph-Based Approximate Nearest Neighbor Search. <i><font color=blue>ICDE 2024</font></i>, [[Paper]](https://arxiv.org/abs/2311.18724). <font color=red>(CCF A)</font>
 * Mengzhao Wang, Lingwei Lv, Xiaoliang Xu, **Yuxiang Wang**, Qiangyue, Jiongkang Ni. An Efficient and Robust Framework for Approximate Nearest Neighbor Search with Attribute Constraint. <i><font color=blue>NeurIPS 2023</font></i>, [[Paper]](https://openreview.net/pdf?id=wLFXTAWa5V). <font color=red>(CCF A)</font>
 * **Yuxiang Wang**, Arijit Khan, Xiaoliang Xu, Jiahui Jin, Qifan Hong, Tao Fu. Aggregate Queries on Knowledge Graphs: Fast Approximation with Semantic-aware Sampling. <i><font color=blue>ICDE 2022</font></i>, [[Paper]](https://arxiv.org/abs/2203.03792), [[Code]](https://github.com/KGLab-HDU/Approximate-Aggregation-Queries). <font color=red>(CCF A)</font>
 * Xiaoliang Xu, Jun Liu, **Yuxiang Wang***, Xiangyu Ke. Academic Expert Finding via (K,P)-Core based Embedding over Heterogeneous Graphs. <i><font color=blue>ICDE 2022</font></i>, [[Code]](https://github.com/KGLab-HDU/Expert-Finding-on-Heterogeneous-Graph). <font color=red>(CCF A)</font>
