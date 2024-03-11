@@ -8,12 +8,13 @@ redirect_from:
 
 News
 ======
+* **[2024.03]** One paper is accpeted by <font color=red>ICDE 2024</font>!<br/>
 * **[2023.12]** One paper is accpeted by <font color=red>Information Sciences (CCF B, IF=8.1, Q1-Top)</font>!<br/>
 * **[2023.12]** One paper is accpeted by <font color=red>ICDE 2024</font>!<br/>
-* **[2023.9]** One paper is accpeted by <font color=red>NeurIPS 2023</font>!<br/>
-* **[2023.7]** One paper is accpeted by <font color=red>ECAI 2023</font>!<br/>
-* **[2023.7]** One paper is accpeted by <font color=red>ISWC 2023</font>!<br/>
-* **[2023.2]** I was invited as a <font color=blue>PC member of KDD 2023</font>!<br/>
+* **[2023.09]** One paper is accpeted by <font color=red>NeurIPS 2023</font>!<br/>
+* **[2023.07]** One paper is accpeted by <font color=red>ECAI 2023</font>!<br/>
+* **[2023.07]** One paper is accpeted by <font color=red>ISWC 2023</font>!<br/>
+* **[2023.02]** I was invited as a <font color=blue>PC member of KDD 2023</font>!<br/>
 * **[2022.12]** One paper is accepted by <font color=red>TKDD (CCF B, IF=4.157)</font>!<br/>
 * **[2022.12]** I was invited as a <font color=blue>PC member of IJCAI 2023</font>!<br/>
 * **[2022.11]** I was invited as a <font color=blue>Guest Editor of Mathematics</font>!<br/>
@@ -62,6 +63,7 @@ Projects
 
 Conference Papers
 ======
+* **Yuxiang Wang**, Shuzhan Ye, Xiaoliang Xu, Yuxia Geng, Zhenghe Zhao, Xiangyu Ke, Tianxing Wu. Scalable Community Search with Accuracy Guarantee on Attributed Graphs. <i><font color=blue>ICDE 2024</font></i>, [[Paper]](https://arxiv.org/abs/2402.17242). <font color=red>(CCF A)</font>
 * Qiang Yue, Xiaoliang Xu, **Yuxiang Wang**, Yikun Tao, Xuliyuan Luo. Routing-Guided Learned Product Quantization for Graph-Based Approximate Nearest Neighbor Search. <i><font color=blue>ICDE 2024</font></i>, [[Paper]](https://arxiv.org/abs/2311.18724). <font color=red>(CCF A)</font>
 * Mengzhao Wang, Lingwei Lv, Xiaoliang Xu, **Yuxiang Wang**, Qiangyue, Jiongkang Ni. An Efficient and Robust Framework for Approximate Nearest Neighbor Search with Attribute Constraint. <i><font color=blue>NeurIPS 2023</font></i>, [[Paper]](https://openreview.net/pdf?id=wLFXTAWa5V). <font color=red>(CCF A)</font>
 * **Yuxiang Wang**, Arijit Khan, Xiaoliang Xu, Jiahui Jin, Qifan Hong, Tao Fu. Aggregate Queries on Knowledge Graphs: Fast Approximation with Semantic-aware Sampling. <i><font color=blue>ICDE 2022</font></i>, [[Paper]](https://arxiv.org/abs/2203.03792), [[Code]](https://github.com/KGLab-HDU/Approximate-Aggregation-Queries). <font color=red>(CCF A)</font>
