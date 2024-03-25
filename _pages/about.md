@@ -8,6 +8,7 @@ redirect_from:
 
 News
 ======
+* **[2024.03]** One paper is accpeted by <font color=red>SIGIR 2024</font>!<br/>
 * **[2024.03]** One paper is accpeted by <font color=red>ICDE 2024</font>!<br/>
 * **[2023.12]** One paper is accpeted by <font color=red>Information Sciences (CCF B, IF=8.1, Q1-Top)</font>!<br/>
 * **[2023.12]** One paper is accpeted by <font color=red>ICDE 2024</font>!<br/>
@@ -63,6 +64,7 @@ Projects
 
 Conference Papers
 ======
+* **Yuxiang Wang**, Xiaoxuan Gou, Xiaoliang Xu, Yuxia Geng, Xiangyu Ke, Tianxing Wu, Zhiyuan Yu, Runhuai Chen, Xiangying Wu. Scalable Community Search over Large-scale Graphs based on Graph Transformer. <i><font color=blue>SIGIR 2024</font></i>. <font color=red>(CCF A, acceptance rate 20.1%)</font>
 * **Yuxiang Wang**, Shuzhan Ye, Xiaoliang Xu, Yuxia Geng, Zhenghe Zhao, Xiangyu Ke, Tianxing Wu. Scalable Community Search with Accuracy Guarantee on Attributed Graphs. <i><font color=blue>ICDE 2024</font></i>, [[Paper]](https://arxiv.org/abs/2402.17242). <font color=red>(CCF A)</font>
 * Qiang Yue, Xiaoliang Xu, **Yuxiang Wang**, Yikun Tao, Xuliyuan Luo. Routing-Guided Learned Product Quantization for Graph-Based Approximate Nearest Neighbor Search. <i><font color=blue>ICDE 2024</font></i>, [[Paper]](https://arxiv.org/abs/2311.18724). <font color=red>(CCF A)</font>
 * Mengzhao Wang, Lingwei Lv, Xiaoliang Xu, **Yuxiang Wang**, Qiangyue, Jiongkang Ni. An Efficient and Robust Framework for Approximate Nearest Neighbor Search with Attribute Constraint. <i><font color=blue>NeurIPS 2023</font></i>, [[Paper]](https://openreview.net/pdf?id=wLFXTAWa5V). <font color=red>(CCF A)</font>
@@ -107,8 +109,9 @@ Service
 ======
 * Reviewer of **TKDE**, **KBS**, **Information Science**, **Knowledge and Information Systems**, **Data Mining and Knowledge Discovery**
 * PC member of **ICDE'23, TKDE poster track**
-* PC member of **KDD'23**
+* PC member of **KDD'23,24**
 * PC member of **IJCAI'23,24**
+* PC member of **ACL'24**
 * PC member of **WWW'24**
 * PC member of **ECAI'23**
 * PC member of **PAKDD'20,21,22,23**
