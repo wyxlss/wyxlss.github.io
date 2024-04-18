@@ -8,7 +8,7 @@ redirect_from:
 
 News
 ======
-* **[2024.04]** One paper is accepted by <font> color=red>IJCAI 2024</font>!<br/>
+* **[2024.04]** One paper is accepted by <font color=red>IJCAI 2024</font>!<br/>
 * **[2024.03]** One paper is accpeted by <font color=red>SIGIR 2024</font>!<br/>
 * **[2024.03]** One paper is accpeted by <font color=red>ICDE 2024</font>!<br/>
 * **[2023.12]** One paper is accpeted by <font color=red>Information Sciences (CCF B, IF=8.1, Q1-Top)</font>!<br/>
