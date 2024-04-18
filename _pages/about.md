@@ -8,6 +8,7 @@ redirect_from:
 
 News
 ======
+* **[2024.04]** One paper is accepted by <font> color=red>IJCAI 2024</font>!<br/>
 * **[2024.03]** One paper is accpeted by <font color=red>SIGIR 2024</font>!<br/>
 * **[2024.03]** One paper is accpeted by <font color=red>ICDE 2024</font>!<br/>
 * **[2023.12]** One paper is accpeted by <font color=red>Information Sciences (CCF B, IF=8.1, Q1-Top)</font>!<br/>
@@ -64,6 +65,7 @@ Projects
 
 Conference Papers
 ======
+* Xiang Chen, Jintian Zhang, Xiaohan Wang, Ningyu Zhang, Tongtong Wu, **Yuxiang Wang**, Yongheng Wang, Huajun Chen. Continual Multimodal Knowledge Graph Construction. <i><font color=blue>IJCAI 2024</font></i>. <font color=red>(CCF A)</font>
 * **Yuxiang Wang**, Xiaoxuan Gou, Xiaoliang Xu, Yuxia Geng, Xiangyu Ke, Tianxing Wu, Zhiyuan Yu, Runhuai Chen, Xiangying Wu. Scalable Community Search over Large-scale Graphs based on Graph Transformer. <i><font color=blue>SIGIR 2024</font></i>. <font color=red>(CCF A, acceptance rate 20.1%)</font>
 * **Yuxiang Wang**, Shuzhan Ye, Xiaoliang Xu, Yuxia Geng, Zhenghe Zhao, Xiangyu Ke, Tianxing Wu. Scalable Community Search with Accuracy Guarantee on Attributed Graphs. <i><font color=blue>ICDE 2024</font></i>, [[Paper]](https://arxiv.org/abs/2402.17242). <font color=red>(CCF A)</font>
 * Qiang Yue, Xiaoliang Xu, **Yuxiang Wang**, Yikun Tao, Xuliyuan Luo. Routing-Guided Learned Product Quantization for Graph-Based Approximate Nearest Neighbor Search. <i><font color=blue>ICDE 2024</font></i>, [[Paper]](https://arxiv.org/abs/2311.18724). <font color=red>(CCF A)</font>
