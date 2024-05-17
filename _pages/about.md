@@ -40,6 +40,7 @@ Service
 ======
 * Reviewer of **TKDE**, **KBS**, **Information Science**, **Knowledge and Information Systems**, **Data Mining and Knowledge Discovery**
 * PC member of **ICDE'23**, **KDD'23,24**, **IJCAI'23,24**, **ACL'24**, **WWW'24**, **ECAI'23**, **SDM'24**, **PAKDD'20,21,22,23**
+* Senior member of CCF
 
 Education
 ======
