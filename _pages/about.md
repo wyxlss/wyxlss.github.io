@@ -108,19 +108,3 @@ Based on Execution Cost Model over Knowledge Graphs. <i><font color=blue>Mathema
 * **Yuxiang Wang**, Yixing Xia, Qiming Fang, Xiaoliang Xu. AQP++: a hybrid approximate query processing framework for generalized aggregation queries. <i><font color=blue>Journal of Computational Science</font></i>, 26: 419-431, 2018. <font color=red>(JCR R3)</font>
 * **Yuxiang Wang**, Junzhou Luo, Aibo Song, Fang Dong. OATS: online aggregation with two-level sharing strategy in cloud. <i><font color=blue>Distributed Parallel Databases</font></i>, 32(4): 467-505, 2014. <font color=red>(CCF C)</font>
 * **Yuxiang Wang**, Junzhou Luo, Aibo Song, Fang Dong. Partition-Based Online Aggregation with Shared Sampling in the Cloud. <i><font color=blue>Journal of Computer Science and Technology</font></i>, 28(6): 989-1011, 2013. <font color=red>(CCF B, JCR R2)</font>
-
-Other Papers
-======
-* Mengzhao Wang, Xiaoliang Xu, Qiang Yue, **Yuxiang Wang**. A Comprehensive Survey and Experimental Comparison of Graph-Based Approximate Nearest Neighbor Search. <i><font color=blue>CoRR abs/2101.12631</font></i>, 2021. 
-
-Service
-======
-* Reviewer of **TKDE**, **KBS**, **Information Science**, **Knowledge and Information Systems**, **Data Mining and Knowledge Discovery**
-* PC member of **ICDE'23, TKDE poster track**
-* PC member of **KDD'23,24**
-* PC member of **IJCAI'23,24**
-* PC member of **ACL'24**
-* PC member of **WWW'24**
-* PC member of **ECAI'23**
-* PC member of **PAKDD'20,21,22,23**
-* PC member of **CBD'16,17,18,19,20,21,22,23**
