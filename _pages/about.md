@@ -33,7 +33,7 @@ Research Interest
 ======
 * **Graph Query.** Knowledge Graph Query, Community Search, Subgraph Matching<br/>
 * **Graph Learning.** Heterogeneous Information Network Embedding, Graph Neural Network<br/>
-* **Approximate Nearest Neighbors Search** Proximity Graph-based ANNS, PQ-based ANNS<br/>
+* **Approximate Nearest Neighbors Search** Graph-based ANNS, PQ-based ANNS<br/>
 * **Big Data.** Approximate Query Processing, Distributed Data Processing, Crowd Sourcing<br/>
 
 Service
