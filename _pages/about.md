@@ -13,7 +13,7 @@ News
 * **[2024.03]** One paper is accpeted by <font color=red>ICDE 2024</font>!<br/>
 * **[2023.12]** One paper is accpeted by <font color=red>Information Sciences (CCF B, IF=8.1, Q1-Top)</font>!<br/>
 * **[2023.12]** One paper is accpeted by <font color=red>ICDE 2024</font>!<br/>
-* **[2023.09]** I have been selected as a Senior Member of CCF</font>!<br/>
+* **[2023.09]** I have been selected as a <font color=blue>Senior Member of CCF</font>!<br/>
 * **[2023.09]** One paper is accpeted by <font color=red>NeurIPS 2023</font>!<br/>
 * **[2023.07]** One paper is accpeted by <font color=red>ECAI 2023</font>!<br/>
 * **[2023.07]** One paper is accpeted by <font color=red>ISWC 2023</font>!<br/>
