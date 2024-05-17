@@ -13,13 +13,11 @@ News
 * **[2024.03]** One paper is accpeted by <font color=red>ICDE 2024</font>!<br/>
 * **[2023.12]** One paper is accpeted by <font color=red>Information Sciences (CCF B, IF=8.1, Q1-Top)</font>!<br/>
 * **[2023.12]** One paper is accpeted by <font color=red>ICDE 2024</font>!<br/>
+* **[2023.09]** I have been selected as a Senior Member of CCF</font>!<br/>
 * **[2023.09]** One paper is accpeted by <font color=red>NeurIPS 2023</font>!<br/>
 * **[2023.07]** One paper is accpeted by <font color=red>ECAI 2023</font>!<br/>
 * **[2023.07]** One paper is accpeted by <font color=red>ISWC 2023</font>!<br/>
-* **[2023.02]** I was invited as a <font color=blue>PC member of KDD 2023</font>!<br/>
 * **[2022.12]** One paper is accepted by <font color=red>TKDD (CCF B, IF=4.157)</font>!<br/>
-* **[2022.12]** I was invited as a <font color=blue>PC member of IJCAI 2023</font>!<br/>
-* **[2022.11]** I was invited as a <font color=blue>Guest Editor of Mathematics</font>!<br/>
 * **[2022.08]** One paper is accepted by <font color=red>CIKM 2022</font>!<br/>
 * **[2022.03]** One paper won the <font color=red>best paper award of CBD 2021</font>!<br/>
 * **[2022.03]** One paper is accepted by <font color=red>ICDE 2022</font>!<br/>
