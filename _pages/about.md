@@ -39,7 +39,7 @@ Service
 * Senior Member of CCF (CCF高级会员)
 * Executive Committee Member of CCF Database Committee (CCF数据库专委会，执行委员)
 * Executive Committee Member of CCF Information Systems Committee（CCF信息系统，执行委员）
-* PC member of **ICDE'23**, **KDD'23,24,25**, **WWW'24,25**, **IJCAI'23,24**, **ACL'24**, **ECAI'23**, **SDM'24**, **PAKDD'20,21,22,23**
+* PC member of **ICDE'23**, **NeurIPS'24**, **KDD'23,24,25**, **WWW'24,25**, **IJCAI'23,24**, **ACL'24**, **ECAI'23**, **SDM'24**, **PAKDD'20,21,22,23**
 * Reviewer of **TKDE**, **KBS**, **Information Science**, **Knowledge and Information Systems**, **Data Mining and Knowledge Discovery**
 
 Education
