@@ -29,9 +29,9 @@ News
 
 Research Interest
 ======
-* **Graph Query.** Knowledge Graph, Graph Mining<br/>
+* **Graph Search.** Knowledge Graph Search, Subgraph search<br/>
 * **Graph Learning.** Graph Neural Networks<br/>
-* **Approximate Nearest Neighbors Search** Graph-based ANNS, PQ-based ANNS<br/>
+* **Approximate Nearest Neighbors Search.** Graph-based ANNS, PQ-based ANNS<br/>
 * **Big Data.** Approximate Query Processing, Distributed Data Processing<br/>
 
 Service
