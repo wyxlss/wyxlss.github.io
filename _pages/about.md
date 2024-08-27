@@ -29,16 +29,18 @@ News
 
 Research Interest
 ======
-* **Graph Query.** Knowledge Graph Query, Community Search, Subgraph Matching<br/>
-* **Graph Learning.** Heterogeneous Information Network Embedding, Graph Neural Network<br/>
+* **Graph Query.** Knowledge Graph, Graph Mining<br/>
+* **Graph Learning.** Graph Neural Networks<br/>
 * **Approximate Nearest Neighbors Search** Graph-based ANNS, PQ-based ANNS<br/>
-* **Big Data.** Approximate Query Processing, Distributed Data Processing, Crowd Sourcing<br/>
+* **Big Data.** Approximate Query Processing, Distributed Data Processing<br/>
 
 Service
 ======
+* Senior Member of CCF (CCF高级会员)
+* Executive Committee Member of CCF Database Committee (CCF数据库专委会，执行委员)
+* Executive Committee Member of CCF Information Systems Committee（CCF信息系统，执行委员）
+* PC member of **ICDE'23**, **KDD'23,24,25**, **WWW'24,25**, **IJCAI'23,24**, **ACL'24**, **ECAI'23**, **SDM'24**, **PAKDD'20,21,22,23**
 * Reviewer of **TKDE**, **KBS**, **Information Science**, **Knowledge and Information Systems**, **Data Mining and Knowledge Discovery**
-* PC member of **ICDE'23**, **KDD'23,24**, **IJCAI'23,24**, **ACL'24**, **WWW'24**, **ECAI'23**, **SDM'24**, **PAKDD'20,21,22,23**
-* Senior member of CCF
 
 Education
 ======
