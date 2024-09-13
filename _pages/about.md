@@ -93,6 +93,7 @@ Conference Papers
 Journal Papers
 ======
 * **Yuxiang Wang**, Jun Liu, Xiaoliang Xu, Xiangyu Ke, Tianxing Wu, Xiaoxuan Gou. Efficient and Effective Academic Expert Finding on Heterogeneous Graphs through $(k,\mathcal{P})$-Core based Embedding. <i><font color=blue>Transactions on Knowledge Discovery from Data (TKDD)</font><i>, 2022, Accepted. <font color=red>(CCF B, IF=4.157)</font>
+* **Yuxiang Wang**, Chengjie Gu, Xiaoliang Xu, Xinjun Zeng, Xiangyu Ke, Tianxing Wu. Efficient and Effective $(k,\mathcal{P})$-Core-based Community Search over Attributed Heterogeneous Information Networks. <i><font color=blue>Information Sciences</font><i>, 2024, Accepted. <font color=red>(CCF B)</font>
 * Shuzhan Ye, Xiaoliang Xu, **Yuxiang Wang**, Tao Fu. Efficient Complex Aggregate Queries with Accuracy Guarantee
 Based on Execution Cost Model over Knowledge Graphs. <i><font color=blue>Mathematics</font><i>, 2023, Accepted. <font color=red>(JCR R2, IF=2.4)</font>
 * Xiaoliang Xu, Qifan Hong, **Yuxiang Wang***, Jiahui Jin, Xinle Xuan, Tao Fu. A Random Walk Sampling on Knowledge Graphs for Semantic-oriented Statistical Tasks. <i><font color=blue>Data & Knowledge Engineering</font><i>, 2022. <font color=red>(CCF B)</font>
