@@ -8,6 +8,7 @@ redirect_from:
 
 News
 ======
+* **[2024.11]** One paper is accepted by <font color=red>SIGMOD 2025</font>!<br/>
 * **[2024.04]** One paper is accepted by <font color=red>IJCAI 2024</font>!<br/>
 * **[2024.03]** One paper is accpeted by <font color=red>SIGIR 2024</font>!<br/>
 * **[2024.03]** One paper is accpeted by <font color=red>ICDE 2024</font>!<br/>
@@ -38,8 +39,8 @@ Service
 * Senior Member of CCF (CCF高级会员)
 * Executive Member of CCF Database Committee (数据库专委会执行委员)
 * Executive Member of CCF Information Systems Committee（信息系统专委会执行委员）
-* PC member of **ICDE'23**, **NeurIPS'24**, **KDD'23,24,25**, **WWW'24,25**, **IJCAI'23,24**, **ACL'24**, **ECAI'23**, **SDM'24**, **PAKDD'20,21,22,23**
-* Reviewer of **TKDE**, **KBS**, **Information Science**, **Knowledge and Information Systems**, **Data Mining and Knowledge Discovery**
+* PC member of **ICDE'23,25**, **NeurIPS'24**, **KDD'23,24,25**, **WWW'24,25**, **IJCAI'23,24**, **ACL'24**, **ECAI'23**, **SDM'24**, **PAKDD'20,21,22,23**
+* Reviewer of **TKDE**, **TKDD**, **KBS**, **Information Science**, **Knowledge and Information Systems**, **Data Mining and Knowledge Discovery**
 
 Education
 ======
@@ -70,6 +71,7 @@ Projects
 
 Conference Papers
 ======
+* **Yuxiang Wang**, Zhangyang Peng, Xiaoliang Xu, Xiangyu Ke, Tianxing Wu, Yuan Gao. Cohesiveness-aware Hierarchical Compressed Index for Community Search over Attributed Graphs. <i><font color=blue>SIGMOD 2025</font></i>. <font color=red>(CCF A)</font>
 * Xiang Chen, Jintian Zhang, Xiaohan Wang, Ningyu Zhang, Tongtong Wu, **Yuxiang Wang**, Yongheng Wang, Huajun Chen. Continual Multimodal Knowledge Graph Construction. <i><font color=blue>IJCAI 2024</font></i>. <font color=red>(CCF A)</font>
 * **Yuxiang Wang**, Xiaoxuan Gou, Xiaoliang Xu, Yuxia Geng, Xiangyu Ke, Tianxing Wu, Zhiyuan Yu, Runhuai Chen, Xiangying Wu. Scalable Community Search over Large-scale Graphs based on Graph Transformer. <i><font color=blue>SIGIR 2024</font></i>. <font color=red>(CCF A, acceptance rate 20.1%)</font>
 * **Yuxiang Wang**, Shuzhan Ye, Xiaoliang Xu, Yuxia Geng, Zhenghe Zhao, Xiangyu Ke, Tianxing Wu. Scalable Community Search with Accuracy Guarantee on Attributed Graphs. <i><font color=blue>ICDE 2024</font></i>, [[Paper]](https://arxiv.org/abs/2402.17242). <font color=red>(CCF A)</font>
