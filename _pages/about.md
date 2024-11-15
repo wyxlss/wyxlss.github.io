@@ -8,6 +8,7 @@ redirect_from:
 
 News
 ======
+* **Call for papers**: our workshop <font color=red>[[LLM+Vector Data @ ICDE 2025]](https://arxiv.org/abs/2311.18724)</font>!<br/>
 * **[2024.11]** One paper is accepted by <font color=red>SIGMOD 2025</font>!<br/>
 * **[2024.04]** One paper is accepted by <font color=red>IJCAI 2024</font>!<br/>
 * **[2024.03]** One paper is accpeted by <font color=red>SIGIR 2024</font>!<br/>
