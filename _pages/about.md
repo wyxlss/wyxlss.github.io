@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yuxiang Wang's homepage" 
+title: "Yuxiang Wang's homepage ([[Chinese version]](https://faculty.hdu.edu.cn/jsjxy/wyx2/))" 
 author_profile: true
 redirect_from: 
   - /about/
