@@ -40,8 +40,8 @@ Service
 * Senior Member of CCF (CCF高级会员)
 * Executive Member of CCF Database Committee (数据库专委会执行委员)
 * Executive Member of CCF Information Systems Committee（信息系统专委会执行委员）
-* PC member of **ICDE'23,25**, **NeurIPS'24**, **KDD'23,24,25**, **WWW'24,25**, **IJCAI'23,24**, **ACL'24**, **ECAI'23**, **SDM'24**, **PAKDD'20,21,22,23**
-* Reviewer of **TKDE**, **TKDD**, **KBS**, **Information Science**, **Knowledge and Information Systems**, **Data Mining and Knowledge Discovery**
+* PC member of ICML'25, ICDE'23,25, NeurIPS'24, KDD'23,24,25, WWW'24,25, IJCAI'23,24, ACL'24, ECAI'23, SDM'24, PAKDD'20,21,22,23
+* Reviewer of TKDE, TKDD, KBS, ESWA, Information Science, KAIS, DMKD
 
 Education
 ======
@@ -95,6 +95,7 @@ Conference Papers
 
 Journal Papers
 ======
+* Yuxia Geng, Jiaoyan Chen, Yuhang Zeng, Zhuo Chen, Wen Zhang, Jeff Z. Pan, **Yuxiang Wang**, Xiaoliang Xu. Prompting Disentangled Embeddings for Knowledge Graph Completion with Pre-trained Language Model. <i><font color=blue>Expert Systems with Applications</font><i>, 2024, Accepted. <font color=red>(JCR R1,TOP, IF=7.5)</font>
 * **Yuxiang Wang**, Jun Liu, Xiaoliang Xu, Xiangyu Ke, Tianxing Wu, Xiaoxuan Gou. Efficient and Effective Academic Expert Finding on Heterogeneous Graphs through $(k,\mathcal{P})$-Core based Embedding. <i><font color=blue>Transactions on Knowledge Discovery from Data (TKDD)</font><i>, 2022, Accepted. <font color=red>(CCF B, IF=4.157)</font>
 * **Yuxiang Wang**, Chengjie Gu, Xiaoliang Xu, Xinjun Zeng, Xiangyu Ke, Tianxing Wu. Efficient and Effective $(k,\mathcal{P})$-Core-based Community Search over Attributed Heterogeneous Information Networks. <i><font color=blue>Information Sciences</font><i>, 2024, Accepted. <font color=red>(CCF B)</font>
 * Shuzhan Ye, Xiaoliang Xu, **Yuxiang Wang**, Tao Fu. Efficient Complex Aggregate Queries with Accuracy Guarantee
