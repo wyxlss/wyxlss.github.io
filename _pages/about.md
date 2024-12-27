@@ -40,17 +40,7 @@ Service
 * Senior Member of CCF (CCF高级会员)
 * Executive Member of CCF Database Committee (数据库专委会执行委员)
 * Executive Member of CCF Information Systems Committee（信息系统专委会执行委员）
-* PC members of Top-tier conferences
-  - ICML'25
-  - ICDE'23,25
-  - NeurIPS'24
-  - KDD'23,24,25
-  - TheWebConf'24,25
-  - IJCAI'23,24
-  - ACL'24
-  - ECAI'23,24
-  - SDM'23,24
-  - PAKDD'20,21,22,23
+* PC members of Top-tier conferences: ICML'25, ICDE'23,25, NeurIPS'24, KDD'23,24,25, TheWebConf'24,25, IJCAI'23,24, ACL'24, ECAI'23,24, SDM'23,24, PAKDD'20,21,22,23
 * Reviewer of TKDE, TKDD, KBS, ESWA, Information Science, KAIS, DMKD
 
 Education
