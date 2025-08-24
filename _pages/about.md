@@ -9,6 +9,7 @@ redirect_from:
 News
 ======
 * **Call for papers**: our workshop [[LLM+Vector Data @ ICDE 2025]](https://llmvdb.github.io)
+* **[2025.08]** One paper is accepted by <font color=red>SIGMOD 2026</font>!<br/>
 * **[2025.05]** One paper is accepted by <font color=red>VLDB 2025</font>!<br/>
 * **[2025.05]** One paper is accepted by <font color=red>ACL 2025</font>!<br/>
 * **[2024.11]** One paper is accepted by <font color=red>SIGMOD 2025</font>!<br/>
@@ -42,8 +43,9 @@ Service
 * Senior Member of CCF (CCF高级会员)
 * Executive Member of CCF Database Committee (数据库专委会执行委员)
 * Executive Member of CCF Information Systems Committee（信息系统专委会执行委员）
-* PC members of Top-tier conferences: ICML'25, ICDE'23,25, NeurIPS'24, KDD'23,24,25, TheWebConf'24,25, IJCAI'23,24, ACL'24, ECAI'23,24, SDM'23,24, PAKDD'20,21,22,23
-* Reviewer of TKDE, TKDD, KBS, ESWA, Information Science, KAIS, DMKD
+* PC members of Top-tier conferences: ICML'25, ICDE'23,25, NeurIPS'24, KDD'23,24,25,26 WWW'24,25,26, IJCAI'23,24,25, ACL'24, ECAI'23,24, SDM'23,24, PAKDD'20,21,22,23
+* Reviewer of IEEE TKDE, ACM TKDD, KBS, ESWA, Information Science, KAIS, DMKD
+* Editorial Board: Data Intelligence
 
 Education
 ======
@@ -74,6 +76,7 @@ Projects
 
 Conference Papers
 ======
+* Shuzhan Ye, Lu Chen, Zhikun Zhang, Yunjun Gao, **Yuxiang Wang**, Xiaoliang Xu. PrivAGS: Differentially Private Attributed Graph Synthesis. <i><font color=blue>SIGMOD 2026</font></i>. <font color=red>(CCF A)</font>
 * **Yuxiang Wang**, Zhangyang Peng, Xiaoliang Xu, Xiangyu Ke, Tianxing Wu, Yuan Gao. Cohesiveness-aware Hierarchical Compressed Index for Community Search over Attributed Graphs. <i><font color=blue>SIGMOD 2025</font></i>. <font color=red>(CCF A)</font>
 * Xiaoxuan Gou, Weiguo Zheng, **Yuxiang Wang**, Xiaoliang Xu, Zhiyuan Yu. A Comprehensive Survey and Experimental Study of Learning-based Community Search. <i><font color=blue>VLDB 2025</font></i>. <font color=red>(CCF A)</font>
 * Yuxia Geng, Runkai Zhu, Jiaoyan Chen, Jintai Chen, Xiang Chen, Zhuo Chen, Shuofei Qiao, **Yuxiang Wang**, Xiaoliang Xu, Sheng-Jun Huang. Graph-guided Cross-composition Feature Disentanglement for Compositional Zero-shot Learning. <i><font color=blue>ACL 2025</font></i>. <font color=red>(CCF A)</font>
