@@ -43,7 +43,7 @@ Service
 * Senior Member of CCF (CCF高级会员)
 * Executive Member of CCF Database Committee (数据库专委会执行委员)
 * Executive Member of CCF Information Systems Committee（信息系统专委会执行委员）
-* PC members of Top-tier conferences: ICML'25, ICDE'23,25, NeurIPS'24, KDD'23,24,25,26 WWW'24,25,26, IJCAI'23,24,25, ACL'24, ECAI'23,24, SDM'23,24, PAKDD'20,21,22,23
+* PC members of Top-tier conferences: ICML'25, ICDE'23,25, NeurIPS'24, KDD'23,24,25,26 WWW'24,25,26, IJCAI'23,24,25, AAAI'26, ACL'24, ECAI'23,24, SDM'23,24, PAKDD'20,21,22,23
 * Reviewer of IEEE TKDE, ACM TKDD, KBS, ESWA, Information Science, KAIS, DMKD
 * Editorial Board: Data Intelligence
 
@@ -67,8 +67,9 @@ Projects
 ======
 * Host <font color=red>1</font> Primay R&D Plan of Zhejiang
   * 浙江省”尖兵“”领雁“研发攻关计划项目，<font color=blue>未来实验室数字化建设关键技术研究与应用示范，项目负责人</font>，2023.1-2025.12，在研
-* Host <font color=red>2</font> National Natural Science Foundation of China
-  * 国家自然科学基金面上项目（No. 62072149），<font color=blue>语义驱动的知识图谱近似图查询关键技术研究，项目负责人</font>，2021.1-2024.12，在研
+* Host <font color=red>3</font> National Natural Science Foundation of China
+  * 国家自然科学基金面上项目（No. 62572162），<font color=blue>语义感知的大规模信息网络高内聚社区搜索技术研究，项目负责人</font>，2026.1-2029.12，在研
+  * 国家自然科学基金面上项目（No. 62072149），<font color=blue>语义驱动的知识图谱近似图查询关键技术研究，项目负责人</font>，2021.1-2024.12，结题
   * 国家自然科学基金青年项目（No. 61602410），<font color=blue>面向大数据近似查询应用的在线聚集融合机制与优化研究，项目负责人</font>，2017.1-2019.12，结题
 * Host <font color=red>1</font> National Natural Science Foundation of Zhejiang Province
 * Participated in <font color=red>6</font> National Natural Science Foundation of China
