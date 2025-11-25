@@ -8,10 +8,11 @@ redirect_from:
 
 News
 ======
-* **Call for papers**: our workshop [[LLM+Vector Data @ ICDE 2025]](https://llmvdb.github.io)
+* **[2025.11]** One paper is accepted by <font color=red>SIGMOD 2026</font>!<br/>
 * **[2025.08]** One paper is accepted by <font color=red>SIGMOD 2026</font>!<br/>
 * **[2025.05]** One paper is accepted by <font color=red>VLDB 2025</font>!<br/>
 * **[2025.05]** One paper is accepted by <font color=red>ACL 2025</font>!<br/>
+* **Call for papers**: our workshop [[LLM+Vector Data @ ICDE 2025]](https://llmvdb.github.io)
 * **[2024.11]** One paper is accepted by <font color=red>SIGMOD 2025</font>!<br/>
 * **[2024.04]** One paper is accepted by <font color=red>IJCAI 2024</font>!<br/>
 * **[2024.03]** One paper is accpeted by <font color=red>SIGIR 2024</font>!<br/>
@@ -77,6 +78,7 @@ Projects
 
 Conference Papers
 ======
+* Qiang Yue, Mengzhao Wang, Xiaoliang Xu, Cheng Long, **Yuxiang Wang**, Jiahui Wang. Efficient and Robust Out-of-Distribution Vector Similarity Search with Cross-Distribution Monotonic Graph. <i><font color=blue>SIGMOD 2026</font></i>. <font color=red>(CCF A)</font>
 * Shuzhan Ye, Lu Chen, Zhikun Zhang, Yunjun Gao, **Yuxiang Wang**, Xiaoliang Xu. PrivAGS: Differentially Private Attributed Graph Synthesis. <i><font color=blue>SIGMOD 2026</font></i>. <font color=red>(CCF A)</font>
 * **Yuxiang Wang**, Zhangyang Peng, Xiaoliang Xu, Xiangyu Ke, Tianxing Wu, Yuan Gao. Cohesiveness-aware Hierarchical Compressed Index for Community Search over Attributed Graphs. <i><font color=blue>SIGMOD 2025</font></i>. <font color=red>(CCF A)</font>
 * Xiaoxuan Gou, Weiguo Zheng, **Yuxiang Wang**, Xiaoliang Xu, Zhiyuan Yu. A Comprehensive Survey and Experimental Study of Learning-based Community Search. <i><font color=blue>VLDB 2025</font></i>. <font color=red>(CCF A)</font>
