@@ -55,6 +55,8 @@ Education
 
 Work experience
 ======
+* 2025-Now: Professor
+  * School of Computer Science, Hangzhou Dianzi University, China
 * 2021-Now: Associate Professor
   * School of Computer Science, Hangzhou Dianzi University, China
 * 2019-2020: Visiting Scholar
