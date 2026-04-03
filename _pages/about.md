@@ -8,6 +8,7 @@ redirect_from:
 
 News
 ======
+* **[2026.04]** One paper is accepted by <font color=red>SIGIR 2026</font>!<br/>
 * **[2025.11]** One paper is accepted by <font color=red>SIGMOD 2026</font>!<br/>
 * **[2025.08]** One paper is accepted by <font color=red>SIGMOD 2026</font>!<br/>
 * **[2025.05]** One paper is accepted by <font color=red>VLDB 2025</font>!<br/>
@@ -80,6 +81,7 @@ Projects
 
 Conference Papers
 ======
+* Jing Qi, **Yuxiang Wang***, Zhiyuan Yu, Xiaoliang Xu, Yuanshi Zheng, Tianxing Wu. Multi-Faceted Continual Knowledge Graph Embedding for Semantic-Aware Link Prediction. <i><font color=blue>SIGIR 2026</font></i>. <font color=red>(CCF A)</font>
 * Qiang Yue, Mengzhao Wang, Xiaoliang Xu, Cheng Long, **Yuxiang Wang**, Jiahui Wang. Efficient and Robust Out-of-Distribution Vector Similarity Search with Cross-Distribution Monotonic Graph. <i><font color=blue>SIGMOD 2026</font></i>. <font color=red>(CCF A)</font>
 * Shuzhan Ye, Lu Chen, Zhikun Zhang, Yunjun Gao, **Yuxiang Wang**, Xiaoliang Xu. PrivAGS: Differentially Private Attributed Graph Synthesis. <i><font color=blue>SIGMOD 2026</font></i>. <font color=red>(CCF A)</font>
 * **Yuxiang Wang**, Zhangyang Peng, Xiaoliang Xu, Xiangyu Ke, Tianxing Wu, Yuan Gao. Cohesiveness-aware Hierarchical Compressed Index for Community Search over Attributed Graphs. <i><font color=blue>SIGMOD 2025</font></i>. <font color=red>(CCF A)</font>
