@@ -110,7 +110,7 @@ Conference Papers
 
 Journal Papers
 ======
-* Runhuai Chen, **Yuxiang Wang**, Tianxing Wu, Zhiyuan Yu, Xiaoliang Xu, Xiangyu Ke, Yuanshi Zheng. Self-Supervised Similar Community Search based on Graph Matching Network. <i><font color=blue>IEEE Transactions on Knowledge and Data Engineering (TKDE)</font><i>, 2026. <font color=red>(CCF A)</font>
+* Runhuai Chen, **Yuxiang Wang***, Tianxing Wu, Zhiyuan Yu, Xiaoliang Xu, Xiangyu Ke, Yuanshi Zheng. Self-Supervised Similar Community Search based on Graph Matching Network. <i><font color=blue>IEEE Transactions on Knowledge and Data Engineering (TKDE)</font><i>, 2026. <font color=red>(CCF A)</font>
 * Yuan Gao, **Yuxiang Wang**, Zhangyang Peng, Xiaoliang Xu, Tianxing Wu. Fast Shortest Distance Estimation via Lighthouse-Based Label on Graph. <i><font color=blue>Tsinghua Science and Technology</font><i>, 2026, Volume 31, Issue 3, Pages 1691-1705. <font color=red>(中科院2区)</font>
 * Yuxia Geng, Jiaoyan Chen, Yuhang Zeng, Zhuo Chen, Wen Zhang, Jeff Z. Pan, **Yuxiang Wang**, Xiaoliang Xu. Prompting Disentangled Embeddings for Knowledge Graph Completion with Pre-trained Language Model. <i><font color=blue>Expert Systems with Applications</font><i>, 2024, Accepted. <font color=red>(中科院1区, TOP, IF=7)</font>
 * **Yuxiang Wang**, Jun Liu, Xiaoliang Xu, Xiangyu Ke, Tianxing Wu, Xiaoxuan Gou. Efficient and Effective Academic Expert Finding on Heterogeneous Graphs through $(k,\mathcal{P})$-Core based Embedding. <i><font color=blue>Transactions on Knowledge Discovery from Data (TKDD)</font><i>, 2022, Accepted. <font color=red>(CCF B, IF=4.157)</font>
